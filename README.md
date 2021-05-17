@@ -6,10 +6,10 @@ This repository contains plementation of financial data analysis of stock prices
 Implementation also constructs a custom portfolio, compute weighted return of the portfolio and run different type of risk analysis with the portfolio.
 
 Following concepts are used:
-**Data Preparation**
-using data cleansing, indexing, sorting, rearranging columns and merging data frames 
+**Data Preparation** <br>
+using data cleansing, indexing, sorting, rearranging columns and merging data frames.
 
-**Quantitative Analysis** 
+**Quantitative Analysis** <br>
 by computing and ploting of the following:
 * Cummulative returns
 * Daily standard deviation
